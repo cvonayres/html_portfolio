@@ -1,0 +1,143 @@
+Instructions for Capstone Project 1 - Online Resume
+Project Specifications
+Create an HTML file named index.html.
+
+Use the <!DOCTYPE html> declaration at the beginning of the file to indicate that it's an HTML document.
+
+Create a head section that includes a title element with the text "My Resume".
+
+Inside the body section, write HTML code to create an online resume covering the following aspects:
+
+Summary or objective statement
+
+Education (list degrees, schools, and dates)
+
+Work experience (list job titles, employers, dates, and responsibilities)
+
+Skills (list relevant skills or areas of expertise)
+
+Awards, certifications, or other achievements (list any relevant awards, certifications, or other accomplishments)
+
+Use appropriate HTML tags to format the content of each section, such as h1 for section headings and ul or ol for lists.
+
+Use HTML tags to add a profile photo of yourself.
+
+Use relevant anchor tags to create a multi-page website, listing other aspects of your resume such as Hobbies and Contact details.
+
+Add a footer element with your name and any copyright information or other disclaimers. (Hint: use the MDN docs for things you don't know how to do: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
+
+Save the index.html file and open it in a web browser to ensure that it displays correctly.
+
+Add your website to your GitHub to start building your portfolio.
+
+Publish your website using GitHub pages and share it here (in the Q&A) with other students.
+
+Comment and make suggestions to other students' projects.
+
+
+
+Example
+https://appbrewery.github.io/capstone-1-example
+
+
+
+Requirements
+In order to keep the project within scope (time, energy, resource), you can only use HTML to complete thing project. Even if you know CSS and JS (which we're assuming you don't yet), you are expected to only write the website using HTML.
+
+Imagine you are a professional developer working on this project. There will be things you don't know, things you want to do but haven't yet learnt how to. As a professional developer, you need to know the limits of your abilities and look up other things in Google, MDN docs, the internet.
+
+
+
+FAQs
+1. Can I use these Capstone projects in my job interviews?
+
+Yes! That's the point of these capstone projects. Unlike course projects, which have solution code and video walkthroughs, Capstone Projects are meant to be entirely your "own work". There are over a million students who have enrolled on this web development course worldwide. If you add a course project to your portfolio, it's very likely that your client will know it's from this course. The capstone projects on the other hand, have no solution code, no walk through, no design specs. It's it purely your creation So it can definitely be counted as your own work and be added to your portfolio.
+
+When I hire developers, I always ask for a portfolio. I consider what they have built by themselves to be far more important than which University they went to or if they have a computer science degree. Many of my friends who are CEOs in multi-nationals and startups agree.
+
+
+
+2. What if I don't remember how to do something, even though I watched all the videos?
+
+Watching a video is often not enough to learn a skill. That's why these capstone projects are a great opportunity to identify your weak points. While you're building, you'll find yourself stuck or forgetting how to do things. Great! It's then time to review previous lessons or online documentation to fill your knowledge gaps.
+
+
+
+
+
+Course content
+Play
+25. Computer File Paths
+19min
+Play
+26. What are Webpages?
+13min
+Play
+27. The HTML Boilerplate
+13min
+Play
+28. [Project] Portfolio Website
+9min
+Play
+29. How to Host Your Website for Free with GitHub
+9min
+Play
+30. Introduction to Capstone Projects
+5min
+Start
+31. Instructions for Capstone Project 1 - Online Resume
+2min
+Search all course questions
+Search all course questions
+Filters:
+
+All lectures
+Sort by:
+
+Sort by recommended
+Featured questions in this course
+(2)
+Comment from Dr. Angela Yu
+Where did the old web development videos go?
+Q. I was working through the outdated lessons and now that you've updated the course, I've lost my progress and
+Q. I was working through the outdated lessons and now that you've updated the course, I've lost my progress and can't find the old outdated videos.
+3074 upvotes
+Dr. Angela · Lecture 10 · 9 months ago
+Comment from Dr. Angela Yu
+Where are the course resources PDF?
+The video mentions a course resources to download or a link to go to. Where do I find this?
+The video mentions a course resources to download or a link to go to. Where do I find this?
+669 upvotes
+Dr. Angela · Lecture 12 · 7 months ago
+All questions in this course
+(63860)
+Comment from Dimitri Szygowski
+I'm literally in tears - thank you Angela.
+Dear Angela, Dear fellow students, I've worked so hard to get here. And I'm so proud of myself to have
+Dear Angela, Dear fellow students, I've worked so hard to get here. And I'm so proud of myself to have made it this far. And I'm equally proud of everyone else who has made it this far. Whatever our personal situations - be it career change, upskilling, extra studies-, to have the courage and determination to push through to this stage and the following modules deserves massive respect. I raise my glass to all of us taking charge of our lives because in the end, we all deserve to be happy and live the best lives we can possibly imagine. Sincerely,Dimitri. 
+6736 upvotes
+Dimitri · Lecture 240 · 3 years ago
+Comment from Arijit Kundu
+DO THESE AFTER FINISHING THE COURSE ✅
+I did this course months back & came here to share what you guys need to do after this courseFirstly
+I did this course months back & came here to share what you guys need to do after this courseFirstly thanks to Angela, who taught everything so well. This is the best online bootcamp to get started with Web Development. But there were some things which were missed.1. After the bootcamp, knowing about React Class Components along with Functional Components is very crucial. But class components were not taught in a depth ;)2. Try to learn more about built-in React hooks which were not covered in the bootcamp.3. State management with Redux or Context API is must to know (for making big projects).4. Form a grip over React Axios which is used for handling API requests.5. Should learn about React routing for react application like we used Express in normal projects.6. The next step will be to make one simple static project on your own with React Class or functional Components as per need without using any databases like MongoDB to have better understanding and check what you have learnt.7. As in this module she made us make a TODO Application with Mongo and Express, EJS. Try making a project with all React, Exress, MongoDB (MERN Project). It has a complete different folder structure as of simple React Application.8. Focus on making another project which has client & server folders made differently like Mongo and express for server. And React, React Router, Axios for client.9. After doing the React part, pat your back, give your friends a high-five and start applying for React or Web development internships for one or two months.10. If you think you feel confident now in React, and want to learn further. you can learn about Socket.io, WebRTC for making projects like Real Time Chat Application/ Video Application and putting these projects in your portfolio.11. Start looking to contribute in open source and try participating in open source programs. You will become confident and proud of yourself.So one common mistake to prevent is to fall in the tutorial hell loop.Don't try to fall in this loop of learning without implementing, the correct procedure which to follow should be to learn a technology, make a project, git it, deploy it, share it with your friends-family anyone you want and add to your portfolio. This will surely keep your interest in development and help you keep moving, learning further!NOTE: The above things mentioned are from a learning point of view only. Getting hired as a Front End Engineer / Full Stack Developer requires different preparation. From interviews perspective learning JavaScript & Data Structures - Algorithms should be on top priority.Some good interview resources has been added below in the comments, feel free to check them out.Upvote this question, if it helped you. Thanks! :)
+3580 upvotes
+Arijit · Lecture 320 · 3 years ago
+Comment from Rameshta Vishwakarma
+y += 1 Explained Solution to the code
+Heya amazing people, I see a lot of confusion in the comments here's the explanation I hope it helps you!herex=
+Heya amazing people, I see a lot of confusion in the comments here's the explanation I hope it helps you!herex= 3;         y = x++;        y+=1; (3+1=4)So what happened here, In programming, there are two types of increment and decrement operator 1. Post Increment (x++)2. Pre Increment(++x)In the above question when we write y = x++ the value of original x gets assigned to y, here the value of x was 3 so eventually, y will become 3when we write y = ++x the value of x will get incremented first and then it will get stored into y so here (3+1=4) and hence y=4;Our code visual representation:x=3;  (After post-increment X will be 4) y=x++; (Here original value of x gets assigned to y which is 3)y+=1; (3+1=4)After post incrementing y will have no relation with x so y will have the assigned value 3 and x will be incremented to 4 However, if you want the answer to be 5 you should do y = ++x;. By doing this x will first get incremented by 1 and then assigned to y so we will have y = 4 and x = 4 following the y += 1 (4+1=5)
+960 upvotes
+Rameshta · Quiz 3 · 3 years ago
+SU
+MongoDb version-6.01 For those who are facing any connection error or bash error
+Ok so first of all mongo shell is not available in new version if you want then you can download
+Ok so first of all mongo shell is not available in new version if you want then you can download any mongodb version less than 6 and you will find it thereFor those who want to work on latest version have to download mongosh which is suppressor of mongo 1. You can download it through this link MongoDB Shell2. After downloading it extract the zip and copy the mongosh folder 3. Now go inside program-files available in c drive(C:\Program Files)  and paste the copied folder4. Now open the mongosh folder and go inside bin folder then copy the exact path of that bin directory It will be similar to my path i.e. C:\Program Files\mongosh-1.5.4-win32-x64\bin *paste the in a notepad 5. Now go back to program files and open MongoDb folder (At this point I hope so you have downloaded the mongodb by following the above video)6. Now open the bin folder by following the path C:\Program Files\MongoDB\Server\6.0\bin copy your bin directory path and save it in notepadThis is the time to setup enviroment variable 1. So to setup enviroment variable click window button type env press enter 2. System Property Dialog Box will apppear clink on Enviroment Variable 3. Enviroment Variable Dialog Box will Appear. There you can see many variable presents inside use Variable from Home 4. Select the Path variable and click on Edit button 5. Edit Enviroment Variable Dialog Box will appear (*If not then make sure you have clicked on 1st edit button)6. Paste the path you have copied in notepad one by one by clicking on New button 7. Once you have paste both the path click on Ok button of all 3 dialog box and it will close all the dialog boxIts  time to start connecting our database 1. Open hyper terminal and type "mongod" or "Mongod" and it will start the server*Don't take stress if you see something like this :-- {"t":{"$date":"2022-08-20T10:12:09.003+05:30"},"s":"I", "c":"NETWORK"................This is not any error you can read its doc for more information Log Messages2. Now wait untill you see something like this {"t":{"$date":"2022-08-19T22:29:25.840-07:00"},"s":"I", "c":"NETWORK", "id":46887, "ctx":"listener","msg":"Waiting for connections","attr":{"port":27017,"ssl":"off"}} 3. Open new hyper terminal and type "mongosh" After sometime you can see something like  test>  or a normal greater bracket >4. Once you reached at this step without any error and warning you can follow video 328 from 02:15 HAPPY LEARNING !!  :-)And Sorry if there is any grammatical mistake  :(
+875 upvotes
+Shivam · Lecture 0 · 1 year ago
+Comment from Eduardo Sastre
+New MongoDB Version 6.0.0
+Hello, I had problems with the current version, I put here what worked for me.--To install:Go to the section of
+Hello, I had problems with the current version, I put here what worked for me.--To install:Go to the section of MongoDB page:Products --> Community Edition --> Community ServerDownload it following the steps of Angela--Then in the section of Vim put this code instead of Angela:alias mongod="/c/Program\ files/MongoDB/Server/6.0/bin/mongod.exe"alias mongos="/c/Program\ Files/MongoDB/Server/6.0/bin/mongos.exe"Restart hyper, then put: mongos --versionThen it should be all done. I hope this help you :)
+772 upvotes
+Eduardo · Lecture 0 · 1 year ago
